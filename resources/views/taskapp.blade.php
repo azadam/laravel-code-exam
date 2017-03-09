@@ -16,12 +16,6 @@
       </header>
       <section id="main">
         <ul id="todo-list">
-          <li>
-            <div class="view">
-              <input class="toggle" type="checkbox">
-              <label>Foo</label>
-            </div>
-          </li>
         </ul>
       </section>
       <footer id="footer"></footer>
